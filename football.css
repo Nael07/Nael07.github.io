@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+ <html>
+ 
+ <head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width">
+   <title>Le Football - Accueil</title>
+   <link href="feuilledestyle.css" rel="stylesheet" type="text/css" />
+ </head>
+ 
+ <body>
+   <h1>Bienvenue sur Parcoursup</h1>
+   <p>Explorez les différentes pages:</p>
+   <ul>
+     <li><a href="mon équipe de coeur.html">Club de coeur</a></li>
+     <li><a href="Des joueurs clés.html">Les Joueur</a></li>
+     <li><a href="Histoire du club.html">Histoire du club</a></li>
+   </ul>
+ </body>
+ 
+ </html>
